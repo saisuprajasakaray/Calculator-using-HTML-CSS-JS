@@ -15,19 +15,20 @@ CSS for styling
 JavaScript for functionality
 
 
-**_Installation_**
+**Installation**
+
 To run the calculator app locally, follow these steps:
 
 **Clone the repository:**
 
-git clone  
+git clone 
+```
 https://github.com/yourusername/calculator-app.git  
-
+```
 **Navigate to the project directory:**
-
-cd 
-calculator-app
-
+```
+cd calculator-app
+```
 Open the index.html file in your web browser.
 
 You can open it directly from your file explorer or use a local server if you have one set up.
@@ -35,22 +36,22 @@ You can open it directly from your file explorer or use a local server if you ha
 
 **File Structure**
 
-index.html: The main HTML file that contains the structure of the calculator.
+1.index.html: The main HTML file that contains the structure of the calculator.
 
-style.css: The CSS file for styling the calculator.
+2.style.css: The CSS file for styling the calculator.
 
-first.js: The JavaScript file that contains the functionality for the calculator.
+2.first.js: The JavaScript file that contains the functionality for the calculator.
 
 
 **Usage**
 
-Basic Operations: Click the number buttons and the arithmetic operators (+, -, *, /) to build your calculation expression.
+1.Basic Operations: Click the number buttons and the arithmetic operators (+, -, *, /) to build your calculation expression.
 
-Evaluate Expression: Click the = button to calculate the result.
+2.Evaluate Expression: Click the = button to calculate the result.
 
-Clear Input: Click the AC button to clear the input.
+3.Clear Input: Click the AC button to clear the input.
 
-Delete Last Character: Click the DEL button to delete the last character from the input.
+4.Delete Last Character: Click the DEL button to delete the last character from the input.
 
 
 **Example**
